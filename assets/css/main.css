@@ -1,0 +1,31 @@
+.modulo {
+	cursor: pointer;
+}
+
+.modulo:hover {
+	cursor: pointer;
+	background: #CCC;
+}
+
+.sub_modulo {
+	cursor: pointer;
+}
+
+.sub_modulo:hover {
+	cursor: pointer;
+	background: #CCC;
+}
+
+/* centraliza icones */
+span > i {
+	margin-top: 20px;
+}
+
+div .icon i {
+	margin-top: 20px;
+}
+/* fim centraliza icones */
+
+.linhaSelecionada {
+	background: #FFE3AF;
+}
